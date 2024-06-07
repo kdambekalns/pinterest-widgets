@@ -1496,7 +1496,7 @@
                 switch (options.width) {
                   case "large":
                     $.v.countPinLarge = $.v.countPinLarge + 1;
-                    imgWidth = "600x";
+                    imgWidth = "736x";
                     width = " large";
                     widthMod = "_large";
                     fontMod = 1;
